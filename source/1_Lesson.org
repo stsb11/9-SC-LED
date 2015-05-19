@@ -1,0 +1,138 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+HTML_HEAD_EXTRA: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
+
+#+TITLE: Design Project
+#+AUTHOR: Stephen Brown
+
+#+BEGIN_HTML
+  <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/stsb11/9-SC-LED">Fork me on GitHub</a>
+    </div>
+  </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+      <li><a href="assessment.html">Assessment</a></li>
+
+    </ul>
+  </div>
+#+END_HTML
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* The Brief
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+[[./img/lamps.jpg]]
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- In this project, you will design and create your own high-power LED light.
+- Everything will be completely original, designed by you.
+- You will need to combine your SolidWorks skills, circuit design, soldering and making abilities to produce a product which will potentially last for many years to come.
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Since the dawn of time, people have benefitted from being able to see after the sun goes down. 
+- Wood fires gave way to oil lamps. The early 1800's saw the introduction of [[http://en.wikipedia.org/wiki/Gas_lighting][gas street lights]]. The latter half of the 19th century saw the invention of the [[http://en.wikipedia.org/wiki/Incandescent_light_bulb][filament bulb]] powered by electricity.
+- More recently, [[http://en.wikipedia.org/wiki/Light-emitting_diode][LED]] lighting is becoming more popular.
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+- Can you identify one reason why each of the lighting technologies names above was an improvement on its predecesor?
+* Design Specification
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+[[./img/1w_led.jpg]]
+- Your light will use 2x 1W LEDs (shown above magified - they're about 3mm X 10mm x 10mm)
+- The housing must be made from a combination of laser-cut 3mm MDF and 3mm translucent acrylic.
+- To emphasise the compact nature of LED lighting, your unit should be as small as possible.
+  - It's dimensions must not exceed 35mm X 80mm X 80mm (H x W x D)
+- The circuit must be built on [[http://en.wikipedia.org/wiki/Stripboard][Stripboard]].
+- It should run from a 9V battery, and include a switch to turn the power on and off.
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Sketch three ideas for the design of your housing. You can always make changes later, so don't fixate on details. This is about articulating your ideas!
+  - /Silver:/ Three designs drawn.
+  - /Gold:/ Includes an indication of dimensions.
+  - /Platinum:/ Includes colour/type of materials and specifies techniques (e.g. [[http://en.wikipedia.org/wiki/Finger_joint][finger joints]], type of glue) for making.
