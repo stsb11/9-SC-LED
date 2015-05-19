@@ -101,17 +101,23 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - You'll need to design the parts of your housing in SolidWorks.
-- Your teacher will recap SolidWorks essentials with you.
-- There are some great SolidWorks notes availble [[https://www.bournetoinvent.com/projects/7-SC-Box/index.html][here]] to help
-** Badge It - Silver
+- If you're not a confident SolidWorks user, these videos will walk you through building a quick letter rack using the basic design tools. 
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pw2K8tAtLHs" frameborder="0" allowfullscreen></iframe>
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YlpAn7Rvolc?list=PLjwXcI6i_ZJHFMidPPHUNImmMUon14GYg" frameborder="0" allowfullscreen></iframe>
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HIr6I7O42rk?list=PLjwXcI6i_ZJHFMidPPHUNImmMUon14GYg" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-1. What is the sum of the following numbers - 5,1,4,9,12
-2. What is the product of the following numbers - 4,1,2,8,9,12
-3. What is the remainder of dividing 12 by 5
-4. What is 12% of 32
-5. If I add 6 to 4, multiply the answer by 10 and then raise to the power of 2, what is the answer.
+- Design the housing for your light.
+- Although you've not designed it yet, experience tells us that your circuit will be around 3mm X 25mm X 20mm x 25mm (HxWxD). It's probably a good idea to 
+- /Silver:/ Design and mate together at least two fully defined parts in an assembly.
+- /Gold:/ Use finger points
+- /Platinum:/ Create a fully defined complete design.
 ** Try It
 - Using variables can help us solve more complex problems.
 - Let's try and use variables to solve some trickier problems.
