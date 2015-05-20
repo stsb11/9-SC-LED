@@ -5,13 +5,13 @@
 #+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
-#+TITLE: Touring Turing
-#+AUTHOR: Marc Scott
+#+TITLE: Design Project
+#+AUTHOR: Stephen Brown
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-      <a href="https://github.com/MarcScott/7-CS-Turing">Fork me on GitHub</a>
+      <a href="https://github.com/stsb11/9-SC-LED">Fork me on GitHub</a>
     </div>
   </div>
 <div id="stickyribbon">
@@ -92,7 +92,8 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Scripting in Python
+* Circuit Design
+[[./img/circuit.png]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -100,10 +101,12 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Up until now you have been coding in the =INTERPRETER=
-- When Turing came up with the concept of his /Turing Machine/ he imagined that cards would be used where instructions could be written for the machine to act upon, depending upon what was written on the tape.
-- We want to use the Python equivalent of these cards.
-- We call these programs or scripts
+- The LEDs you're going to use are /very/ bright, 1W models. 
+- They'll work with a good-quality 9V battery, but because LEDs have very low internal resistance, if connected directly to the battery they'll draw too much current, quickly overheat and burn out. 
+- To reduce the current flow, we'll use some 100 Ohm resistors connected in parallel, which will stop this from happening.
+- You're going to need to design a compact Stripboard circuit to take all the component parts. We use DIYlc for stripboard design in School. 
+- *Resource:* You can load DIYlc from the open drive in School, in the G:\Systems and Control\Student Home software\DIYlc\ folder. Double-click the 'diylc.exe' file to start.
+- *Resource:* At home, DIYlc is available for download [[https://code.google.com/p/diy-layout-creator/][here]].
 ** Try It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
