@@ -118,7 +118,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: make
 :END:
-- Solder in your resistors first. Ensure they're nice and flat to the board, and all the right value. Sometimes, resistors from other drawers get muddled up, so make sure you've got brown, black, brown, gold on all of yours. 
+- Solder in your 330 Ohm resistors first. Ensure they're nice and flat to the board, and all the right value. Sometimes, resistors from other drawers get muddled up, so make sure you've got orange, orange, brown,  gold on all of yours. 
 - If you've got them all packed tightly together, you'll almost certainly find that the solder will clump togther on individual rows. This is fine. You've only got a problem if the solder forms a bridge from one row to the row above/below it. 
 - After the resistors, add the PP3 battery clip (remember to use your strain relief holes). You'll need to de-solder the black wire in a future lesson if you're going to keep the battery outside of the case, but don't worry about this now.  
 - Finally, add the LEDs. Start by using long-nose pliers to gently bend the + and - leg down by 90 degrees, so they will fit in the 1.5mm holes you created for them. The + and - are marked on the legs, but are absolutely tiny. You'll need excellent eyesight or a magnifying lens to see them. 

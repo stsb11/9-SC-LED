@@ -107,6 +107,16 @@
 - Solder one to the middle lug of the switch (there's a little hole in it to make this easier)
 - Solder the other end to either of the two remaining lugs. 
 [[./img/switch.jpg]]
+** Protect It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+- Diodes only allow current to flow in /One Direction/. They also use up 0.7V of the available voltage in our circuit. This isn't much, but will reduce the amount of voltage going into your circuit and prevent it from getting hot.
+- Cut your black PP3 wire, and solder a rectifier diode in-line, with the gray band facing towards the PP3 battery snap. You can see mine resting on top of the switch in the picture above. 
+- Use spacers (cut them in half with side cutters to reduce their height) on top of the machine screws, then finally place your PCB on top and secure it into place *gently* with a pair of M3 nuts. 
+- Use PVA glue to stick MDF parts of your housing together.
+- Don't stick the lid down if you're going for an internal battery, otherwise you'll never be able to change it! 
+- PVA glue takes 24 hours to form a full-strength bond, but the body of your lamp should be fine to handle after about an hour. 
 ** Mount It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: build

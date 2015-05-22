@@ -261,7 +261,7 @@
       <value>1W</value>
     </org.diylc.components.semiconductors.LED>
     <org.diylc.components.passive.Resistor>
-      <name>100</name>
+      <name>330</name>
       <alpha>127</alpha>
       <length>
         <value>6.0</value>
@@ -302,7 +302,7 @@
       <display>VALUE</display>
       <flipStanding>false</flipStanding>
       <value>
-        <value>100.0</value>
+        <value>330.0</value>
         <unit class="org.diylc.core.measures.ResistanceUnit">R</unit>
       </value>
       <power>HALF</power>
@@ -313,7 +313,7 @@
       <colorCode>_4_BAND</colorCode>
     </org.diylc.components.passive.Resistor>
     <org.diylc.components.passive.Resistor>
-      <name>100</name>
+      <name>330</name>
       <alpha>127</alpha>
       <length>
         <value>6.0</value>
@@ -354,7 +354,7 @@
       <display>NAME</display>
       <flipStanding>false</flipStanding>
       <value>
-        <value>100.0</value>
+        <value>330.0</value>
         <unit class="org.diylc.core.measures.ResistanceUnit">R</unit>
       </value>
       <power>HALF</power>
