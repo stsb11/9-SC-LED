@@ -117,6 +117,11 @@
 - *The PCB:* Although you've not designed it yet, experience tells us that your circuit will be around 3mm X 25mm X 20mm (HxWxD). It's probably a good idea to design a small rectangular part this size, so that you can check later on that it'll fit inside your model. Don't worry about including holes to mount it yet (you can see some in my example at the top of the page) - we'll add these once you've designed your board.
 - *The Switch:* You'll want to use a small toggle switch to turn your light on and off. One of your side walls will need a hole with a 3mm radius (6mm diameter) in it for the switch to stick through. SolidWorks is a very popular program around the World, and many other engineers and designers have created detailed parts which they have shared with others. As it happens, you can download the switch you'll be using [[./T-Switch.SLDASM][here]] and insert it into your assembly. *TIP:* Once you insert the switch, make sure there will be some space for the wires to to PCB to go. You don't need a lot, but you don't want the back of the switch touching the PCB, for example.
 - *Power wires:* Are you going to store your battery inside the housing (more portable), or outside (for easy battery changing)? If you want it external, you'll want to include a 1.5mm radius hole somewhere on one of the side walls.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IGWfrjBgPzs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KpscA_nC9GA" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+
 ** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
