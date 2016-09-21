@@ -95,32 +95,26 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-** 1. Sense it
+** 1. Joint it
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-- The drawer alarm uses a LDR as a sensor to detect when the drawer is open. 
-- Research *three* other types of sensor that could be added to a circuit, and suggest a project they could be used for. 
-- For each, find a picture from the web of the sensor. E.g. An ultrasonic distance sensor uses ultrasound to detect how far away objects are from it. 
-- This could be used to make a reversing sensor for a car.
+- There are many ways to join two different pieces of wood, plastic or metal together. 
+- Research and write a series of short paragraphs to describe and identify advantages/disadvantages for  each of: Nuts and bolts, screws, pop rivets, glue and welding. e.g.
+- "Nails can be used to join two pieces of wood together by driving them from one piece of wood into the other with a hammer. 
+- The advantage of using nails is the speed with which the materials can be joined together.
+- A disadvantage of nails is that the wood can split, and that it is easy to hit the wood by accident, marking the surface”
 - Upload your work to the first badge in the homework section on BourneToLearn.com
 
-** 2. Speak It
+** 2. Light It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: document
 :END:
-- The drawer alarm uses a small loudspeaker to alert the owner when it is triggered. 
-- Read this page: https://www.bournetoinvent.com/projects/mp3/step_4.html 
-- Open a new Word document and write the title: Sound.
-- Underneath it, explain in your own words how a loudspeaker works.
-- Copy and paste the picture of the speaker system at the top of this section (not the image of a loudspeaker by itself).
-- Underneath this, identify which speaker is which in the photo you copied and pasted. 
-- For each: Say why you think that is. For instance, you might say that the top speaker in the left and right enclosures are tweeters, because they are very small.
-- Explain what the benefit of having this type of speaker is.
-- Find another picture of a sound system online (Argos have a good range), and idenfity the speakers in it.
+-  LEDs are everywhere! In our TVs, on electrical items, street lighting and illuminating our homes. 
+- Research the history of the LED, and explain why they’re becoming more popular. 200 words.
 - Upload your work to the second badge in the homework section on BourneToLearn.com
 
-** 3. House It
+** 3. Cut or Print It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
 :END:
@@ -129,5 +123,9 @@
 - They’ll still need to have the switch on the front, somewhere for the LDR and two LEDs, but how you design it is up to you. 
 - Indicate approximate dimensions. 
 - Think about: Where will the PCB go? What holds it together? What’s it made from? Where do the batteries go?
+- Upload your work to the third badge in the homework section on BourneToLearn.com
+
+- Laser cutting, water jet cutting and 3D printing are relatively new technologies. 
+- Research each of them; for each one, write a little about how it works, and what they can be used for. 200 words total.
 - Upload your work to the third badge in the homework section on BourneToLearn.com
 
