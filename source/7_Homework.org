@@ -118,12 +118,6 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
 :END:
-- The housing for the drawer alarm is made from laser-cut 3mm acrylic sheet, separated by some nuts and bolts. 
-- Sketch designs for two different housings and label them. 
-- They’ll still need to have the switch on the front, somewhere for the LDR and two LEDs, but how you design it is up to you. 
-- Indicate approximate dimensions. 
-- Think about: Where will the PCB go? What holds it together? What’s it made from? Where do the batteries go?
-- Upload your work to the third badge in the homework section on BourneToLearn.com
 
 - Laser cutting, water jet cutting and 3D printing are relatively new technologies. 
 - Research each of them; for each one, write a little about how it works, and what they can be used for. 200 words total.
