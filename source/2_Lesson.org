@@ -109,6 +109,12 @@
 <br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HIr6I7O42rk?list=PLjwXcI6i_ZJHFMidPPHUNImmMUon14GYg" frameborder="0" allowfullscreen></iframe>
 #+END_HTML
+- If you're feeling a little more ambitious, this tutorial teaches you a few more techniques that will let you build a 3D-printable model.
+- *NOTE:* 3D printing makes lovely models, but the plastic isn't see-though. 
+- *NOTE:* 3D-printing is a slow process. Manufacturing the TARDIS from the video tutorial below took around 10 hours. Bear this in mind if you want to 3D print your light, and aim to finish your model early to ensure you get time on one of the printers. 
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ifjnrfjPCjQ" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
 ** Design It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
