@@ -123,3 +123,33 @@
 - Research each of them; for each one, write a little about how it works, and what they can be used for. 200 words total.
 - Upload your work to the third badge in the homework section on BourneToLearn.com
 
+** 4. Solder it
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- Soldering a PCB together is one of the most satisfying part of building a project, but mistakes do happen. Three different ways you can de-solder a PCB are:
+  - Solder pump
+  - Electric solder pump
+  - Solder wick
+- For each of the above, find an image of the named item and write a short description of how to use it. 
+- There are lots of guides online; the Internet is a great source of information.
+** 5. Meter it
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- One of the most powerful diagnostic tools an electronic engineer has at their disposal is a multimeter.
+- You've encountered these riefly in previous projects, although students often struggle to remember how to use them correctly.
+- Some multimeters can measure more than others, and are able to read temperatures. 
+- Go online, and research *four* different things that a multimeter can measure. 
+- For each feature, describe briefly when it might be useful. 
+** 6. Evaluate it
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- Your project is now either finished, or very close to it.
+- Write an evaluation of your project. You should cover all of the following:
+  - What do you like about your product?
+  - What could be improved about it?
+  - How well did you use your time in this project?
+  - If you were to start the project over, what would you do differently? Why?
+  - Set yourself a target for future practical projects.
